@@ -5,4 +5,4 @@
 - [개인정보 처리방침](privacy)
 - [이용약관](terms)
 
-문의: [팀 공용 메일]
+문의: syujin2323@gmail.com
